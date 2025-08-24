@@ -34,6 +34,8 @@ Dashboard ini terdiri dari beberapa bagian:
    - Kampanye retensi untuk pelanggan berisiko churn (>40 hari sejak pembelian terakhir).
    - Implementasi chatbot AI untuk meningkatkan pengalaman pelanggan.
    - Promosi berbasis lokasi untuk kota dengan kepuasan rendah seperti Chicago.
+  
+  
 
 Kontak
 Untuk pertanyaan atau saran, hubungi:
